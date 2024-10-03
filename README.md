@@ -1,3 +1,3 @@
 # Ad-worth
 <br>
-A Landing Page designed with html,css,bootstrap 
+A Landing Page designed with html,css & bootstrap 
